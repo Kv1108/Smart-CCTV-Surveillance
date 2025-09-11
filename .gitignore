@@ -1,6 +1,7 @@
 separated_voices/
 recorded_audio/
 transcriptions/
+num_speak.py/
 
 tmp_model/
 
