@@ -1,0 +1,12 @@
+Flask  
+Flask-Cors  
+flask-socketio  
+torch  
+numpy  
+librosa  
+SoundFile  
+pyannote.audio  
+speechrecognition  
+SpeechBrain  
+pyaudio  
+keyboard  
